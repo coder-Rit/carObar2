@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c55fbc8.css",
+    "main.js": "/static/js/main.64fceffd.js",
+    "static/media/tiagoPNG.png": "/static/media/tiagoPNG.7ea4bba37640d5e57952.png",
+    "static/media/n.png": "/static/media/n.6f18871e007c4136cf27.png",
+    "static/media/bmwBike.png": "/static/media/bmwBike.dea7b4cdbf2db1737fe6.png",
+    "static/media/plass.png": "/static/media/plass.f48938e5617a4157dcdc.png",
+    "static/media/backgroundImg.png": "/static/media/backgroundImg.64e097067f7b559ab9c0.png",
+    "static/media/r15.png": "/static/media/r15.6b5a6c44b6caaa29616f.png",
+    "static/media/activa.png": "/static/media/activa.4d151fba5a5e6d9c4a05.png",
+    "static/media/alto.png": "/static/media/alto.833c9db6dc386ca7ad16.png",
+    "static/media/break.png": "/static/media/break.d8878348f1b7577e2d47.png",
+    "static/media/suspension2.png": "/static/media/suspension2.999d3095b288d2a02e13.png",
+    "static/media/Aclass.png": "/static/media/Aclass.9c6e61689981914eedfb.png",
+    "static/media/clutch2.png": "/static/media/clutch2.5da80a5a6db2dbc2318f.png",
+    "static/media/brake2.png": "/static/media/brake2.e1385807a458172fdbf5.png",
+    "static/media/cleaning.png": "/static/media/cleaning.7704282e2f546e2ea02d.png",
+    "index.html": "/index.html",
+    "main.2c55fbc8.css.map": "/static/css/main.2c55fbc8.css.map",
+    "main.64fceffd.js.map": "/static/js/main.64fceffd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c55fbc8.css",
+    "static/js/main.64fceffd.js"
+  ]
+}
